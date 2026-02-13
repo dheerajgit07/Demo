@@ -7,21 +7,21 @@ function BlogSection() {
       desc: "Learn how routine blood tests help detect diseases early and improve overall health.",
       date: "Jan 15, 2026",
       image:
-        "src/assets/images/WhatsApp Image 2026-01-28 at 21.57.18.jpeg",
+        "src/assets/images/staff-working.jpg",
     },
     {
       title: "5 Tips to Keep Your Heart Healthy",
       desc: "Simple lifestyle changes that can protect your heart and boost longevity.",
       date: "Feb 2, 2026",
       image:
-        "src/assets/images/WhatsApp Image 2026-01-28 at 21.57.56.jpeg",
+        "src/assets/images/reception-area.jpg.jpg",
     },
     {
       title: "Understanding MRI & CT Scans",
       desc: "A complete guide to how imaging tests work and when you need them.",
       date: "Feb 8, 2026",
       image:
-        "src/assets/images/WhatsApp Image 2026-01-28 at 21.58.19.jpeg",
+        "src/assets/images/lab-equipment.jpg",
     },
   ];
 
