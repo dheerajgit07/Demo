@@ -14,7 +14,7 @@ function BlogSection() {
       desc: "Simple lifestyle changes that can protect your heart and boost longevity.",
       date: "Feb 2, 2026",
       image:
-        "src/assets/images/reception-area.jpg.jpg",
+        "src/assets/images/reception-area.jpg",
     },
     {
       title: "Understanding MRI & CT Scans",
