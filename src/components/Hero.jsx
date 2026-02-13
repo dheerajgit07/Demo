@@ -69,7 +69,7 @@ function Hero() {
           <div className="hidden lg:block relative h-full">
             <div className="relative z-10 w-full h-[600px] rounded-[40px] overflow-hidden border border-slate-800 shadow-2xl">
               <img
-                src="src/assets/images/WhatsApp Image 2026-01-28 at 21.57.41.jpeg" 
+                src="src/assets/images/award-ceremony.jpg" 
                 alt="High-end Laboratory Research Facility"
                 className="w-full h-full object-cover object-center brightness-90 contrast-110"
               />
