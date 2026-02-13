@@ -1,5 +1,5 @@
 import React from "react";
-import LabImage from "../assets/images/WhatsApp Image 2026-01-28 at 21.56.48.jpeg"; 
+import LabImage from "../assets/images/lab-exterior.jpg";
 
 function LocationSection() {
   return (
